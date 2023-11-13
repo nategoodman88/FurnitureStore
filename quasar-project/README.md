@@ -1,6 +1,6 @@
 # Quasar App (quasar-project)
 
-A Quasar and Directus project for interview purposes 
+A Quasar and Directus project for interview purposes. 
 
 Hosted via AWS. Front End S3 Bucket.  Backend Ubuntu nginx server.
 
