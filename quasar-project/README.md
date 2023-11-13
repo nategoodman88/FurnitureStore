@@ -1,4 +1,4 @@
-# Quasar App (quasar-project)
+# Furniture Store Inventory (quasar-project)
 
 A Quasar and Directus project for interview purposes. 
 
