@@ -1,6 +1,12 @@
 # Quasar App (quasar-project)
 
 A Quasar and Directus project for interview purposes 
+Hosted via AWS. Front End S3 Bucket.  Backend Ubuntu nginx server.
+
+Directus configurations are stored in a seperate file not uploaded to Github. For Directus hosting, see the Directus docs: 
+https://docs.directus.io/self-hosted/quickstart.html 
+
+For Quasar: 
 
 ## Install the dependencies
 ```bash
